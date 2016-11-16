@@ -1,2 +1,5 @@
-# docker-cassandra
-Cassandra image based on kscape/docker-oracle-java
+# Cassandra
+
+## Run using docker-compose
+
+docker-compose up
